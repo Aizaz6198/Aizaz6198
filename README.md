@@ -6,8 +6,8 @@
 <br />
 **A passionate and dedicated web developer.**
 
-<br/><br/>Mastering the art of simplicity: From intricate challenges to elegant interfaces, I thrive on crafting seamless designs.
-<br/><br/>With a passion for precision, I meticulously engineer HTML, CSS, and JavaScript code for optimal elegance and efficiency.
+<br/>Mastering the art of simplicity: From intricate challenges to elegant interfaces, I thrive on crafting seamless designs.
+<br/>With a passion for precision, I meticulously engineer HTML, CSS, and JavaScript code for optimal elegance and efficiency.
 
 <br />
 
