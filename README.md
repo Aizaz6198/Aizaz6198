@@ -2,9 +2,11 @@
 
 <br />
 
-**I am a Full-stack web developer from India.**
-<br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
-<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+**Hello, I am Aizaz Ahmed, 
+A passionate and dedicated web developer.**
+
+<br/><br/>Mastering the art of simplicity: From intricate challenges to elegant interfaces, I thrive on crafting seamless designs.
+<br/><br/ With a passion for precision, I meticulously engineer HTML, CSS, and JavaScript code for optimal elegance and efficiency.
 
 <br />
 
@@ -12,10 +14,12 @@
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-• 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate on <b>cool projects.</b><br/>
+• 🔭 I’m currently working on <b> **New Ideas :)** </b> <br/>
+• 👯 I’m looking to collaborate on <b> **Cool projects** .</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="www.linkedin.com/in/aizaz-ahmed-06076618b"><b>LinkedIn</b></a><br/>
+• 📫 Reach me out <a href="mailto:Aizaz6198@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a><br/>
 </span>
 
 <br />
