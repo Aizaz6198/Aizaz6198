@@ -75,7 +75,9 @@ A passionate and dedicated web developer.**
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")][repo]
+[![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C")][repo]
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
+[![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Java")][repo]
 
 
 ## 🛠️ **DEVOPS TOOLS**
@@ -107,14 +109,14 @@ A passionate and dedicated web developer.**
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white)][repo]
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave")][repo]
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) -->
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
 ## ⭕ **OPERATING SYSTEMS**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) -->
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
