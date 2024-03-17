@@ -44,7 +44,7 @@
 <a href="https://www.github.com/Aizaz6198"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
-<a  href="www.linkedin.com/in/aizaz-ahmed-06076618b">
+<a  href="https://www.linkedin.com/in/aizaz-ahmed-06076618b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <br />
